@@ -1,0 +1,56 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "F:\\Projects\\ERC721 NFT Token using Hardhat\\contracts\\ERC721_NFT.sol": {
+      "lastModificationDate": 1644566441636,
+      "contentHash": "28cb0a4daaf229e3ce836f3bbf9096ce",
+      "sourceName": "contracts/ERC721_NFT.sol",
+      "solcConfig": {
+        "version": "0.8.2",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.2"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721Burnable",
+        "ERC721Enumerable",
+        "ERC721URIStorage",
+        "ERC721_NFT",
+        "IERC165",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Ownable",
+        "Pausable",
+        "Strings"
+      ]
+    }
+  }
+}
